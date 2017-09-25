@@ -2,13 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Dharma Raj Thapa</title>
-    <link>https://dharma017.github.io/categories/</link>
+    <link>http://rdharma.com.np/categories/</link>
     <description>Recent content in Categories on Dharma Raj Thapa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://dharma017.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rdharma.com.np/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://rdharma.com.np/categories/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>http://rdharma.com.np/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ad</title>
+      <link>http://rdharma.com.np/categories/ad/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>http://rdharma.com.np/categories/ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propaganda</title>
+      <link>http://rdharma.com.np/categories/propaganda/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>http://rdharma.com.np/categories/propaganda/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
